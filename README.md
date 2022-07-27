@@ -19,7 +19,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Angular](https://img.shields.io/badge/-Angualr-000?&logo=angular)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-000?style=style=flat-square&logo=jquery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Angular](https://img.shields.io/badge/-Angualr-000?&logo=angular)
 
