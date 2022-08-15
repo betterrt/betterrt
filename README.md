@@ -1,8 +1,8 @@
-### LinkedIn:
-<a href="https://www.linkedin.com/in/ruitao-jiang-295a42224">
-  <img align="left" alt="Ruitao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
+### LinkedIn: <a href="https://www.linkedin.com/in/ruitao-jiang-295a42224">
+                 <img align="left" alt="Ruitao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+              </a>
+           
+<br>
 ### Languages:
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -24,8 +24,7 @@
 ![Angular](https://img.shields.io/badge/-Angualr-000?&logo=angular)
 
 ### Full Stack Projects:
-## Artist Searching Website:
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://code-rtj.github.io/xd56rn95.html)
+#### Artist Searching Website: [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://code-rtj.github.io/xd56rn95.html)
 
 
 <!---
