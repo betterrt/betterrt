@@ -1,7 +1,7 @@
 
 ## LinkedIn: <a href="https://www.linkedin.com/in/ruitao-jiang-295a42224">
-               <img alt="Ruitao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-             </a>
+  <img alt="Ruitao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
           
 ## Languages:
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
