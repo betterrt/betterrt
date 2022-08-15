@@ -1,6 +1,7 @@
-### LinkedIn: <a href="https://www.linkedin.com/in/ruitao-jiang-295a42224">
-                 <img align="left" alt="Ruitao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-              </a>
+### LinkedIn: 
+<a href="https://www.linkedin.com/in/ruitao-jiang-295a42224">
+  <img align="left" alt="Ruitao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
            
 <br>
 ### Languages:
