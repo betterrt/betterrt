@@ -24,7 +24,7 @@
 ![Angular](https://img.shields.io/badge/-Angualr-000?&logo=angular)
 
 ## Full Stack Projects:
-### Artist Searching Website:   [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://code-rtj.github.io/xd56rn95.html)
+### Artist Searching Website:   [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://ruitaoji9832.wl.r.appspot.com/)
 
 
 <!---
