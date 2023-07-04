@@ -4,9 +4,10 @@
 ##### I am a graduate student of [University of Southern California](https://www.usc.edu/), majored in Electrical Engineering. 
 ##### I am looking for a full-time Software Development position. I have a wide range of software development experience, especially in Java Backend.
 
-## LinkedIn: <a href="https://www.linkedin.com/in/ruitao-jiang-295a42224">
+## LinkedIn: 
+<a href="https://www.linkedin.com/in/ruitao-jiang-295a42224">
   <img alt="Ruitao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> [Profile](https://www.linkedin.com/in/ruitao-jiang-295a42224/)
+</a> 
           
 ## Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
