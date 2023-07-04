@@ -23,12 +23,12 @@ My name is Ruitao Jiang. You can also call me Ryan. I am a graduate student of [
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
   
 ## Tools: 
-![AWS]([https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white))
-![Linux]([https://img.shields.io/badge/-Linux-000?&logo=Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black))
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
 
 ## Full Stack Projects:
-### Online Game Shop:   [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://ruitaoji9832.wl.r.appspot.com/)
+### Online Game Shop:   ![link](https://ruitaoji9832.wl.r.appspot.com/)
 
 
 <!---
