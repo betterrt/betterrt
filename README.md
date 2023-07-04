@@ -1,5 +1,5 @@
 
-Hi! Welcome to my Github. 
+# Hey! Welcome to my Github. 
 My name is Ruitao Jiang. You can also call me Ryan. I am a graduate student of [University of Southern California](https://www.usc.edu/), majored in Electrical Engineering. I am looking for a full-time Software Development position. I have a wide range of software development experience, especially in Java Backend.
 
 ## LinkedIn: <a href="https://www.linkedin.com/in/ruitao-jiang-295a42224">
@@ -22,10 +22,9 @@ My name is Ruitao Jiang. You can also call me Ryan. I am a graduate student of [
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
   
-## Tools:
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-GCP)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+## Tools: 
+![AWS]([https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white))
+![Linux]([https://img.shields.io/badge/-Linux-000?&logo=Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black))
 
 
 ## Full Stack Projects:
