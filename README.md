@@ -1,6 +1,6 @@
 
 # Hey! Welcome to my Github. 
-### My name is Ruitao Jiang. You can also call me Ryan. 
+##### My name is Ruitao Jiang. You can also call me Ryan. 
 ### I am a graduate student of [University of Southern California](https://www.usc.edu/), majored in Electrical Engineering. 
 ### I am looking for a full-time Software Development position. I have a wide range of software development experience, especially in Java Backend.
 
@@ -11,12 +11,10 @@
 ## Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -39,7 +37,7 @@
 
 ## Full Stack Projects:
 ### Online Game Shop:   
-![link](https://github.com/betterrt/game-shop-backend)
+[link](https://github.com/betterrt/game-shop-backend)
 
 
 <!---
